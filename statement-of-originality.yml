@@ -1,7 +1,7 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name: Diana Dragos
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
@@ -11,14 +11,15 @@ declaration: >-
 # add as many "name+comment" entries as necessary
 # (or remove it altogether if you haven't collaborated with anyone)
 collaboration:
-  - name:
+  - name: ChatGPT
     comment: >-
+    I have collaborated with ChatGPT on this assignment.
       
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
+  - comment: I have collaborated with ChatGPT.
     url:
     licence:
 
@@ -26,6 +27,11 @@ code:
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external assets)
 assets:
-  - comment:
-    url:
-    licence:
+  - comment: ice texture(.png), smoke(.mp4), shattered glass(.mp4)
+    url: https://stock.adobe.com/ro
+    
+ - comment: Alva Noto + Ryuichi Sakamoto - Glass
+   url: https://stock.adobe.com/ro
+   
+ - comment: Hush, glass, humming, wind sound effects
+   url: https://pixabay.com/
